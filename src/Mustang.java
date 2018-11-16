@@ -12,4 +12,4 @@ public class Mustang implements Horse {
     public int getWeigh(){
         return this.weight;
     }
-    }
+}
